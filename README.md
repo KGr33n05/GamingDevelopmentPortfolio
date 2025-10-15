@@ -10,5 +10,5 @@ Detailed Description
 
 * [Windows](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/src/SpaceGame/windows-amd64.zip)
 * [MacOS Apple](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
-* [MacOS Intel]()
+* [MacOS Intel](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/src/SpaceGame/macos-x86_64.zip)
 * [Source Code](https://github.com/KGr33n05/GamingDevelopmentPortfolio/tree/main/src/SpaceGame)
