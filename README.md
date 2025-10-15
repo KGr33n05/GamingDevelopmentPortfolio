@@ -9,5 +9,6 @@ Detailed Description
 ![Running Game](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/images/SpaceGame01.png?raw=true)
 
 * [Windows](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/src/SpaceGame/windows-amd64.zip)
-* [MacOS](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
+* [MacOS Apple](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
+* [MacOS Intel]()
 * [Source Code](https://github.com/KGr33n05/GamingDevelopmentPortfolio/tree/main/src/SpaceGame)
