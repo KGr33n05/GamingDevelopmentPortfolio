@@ -7,6 +7,7 @@ ArrayList<Star> stars = new ArrayList<Star>();
 ArrayList<Powerups> powups = new ArrayList<Powerups>();
 Timer rockTimer, puTimer;
 int score, rocksPassed, level;
+float accuracy, shotf, shoth;
 boolean play;
 PImage st1,go1;
 SoundFile Blast, Upgrade;
@@ -22,6 +23,9 @@ void setup() {
   score = 0;
   rocksPassed = 0;
   level = 0;
+  accuracy = 0;
+  shotf = -1;
+  shoth = 0;
   play = false;
   st1 = loadImage("SpaceGameStart.png");
   go1 = loadImage("SpaceGameOver.png");
@@ -111,6 +115,7 @@ void draw() {
           score+=150-r.diam;
           lasers.remove(laser);
           r.diam-=20;
+          shoth++;
           if (r.diam<50) {
             rocks.remove(r);
           }
@@ -162,6 +167,7 @@ void mousePressed() {
       lasers.add(new Laser(s1.x + 20, s1.y));
     }
     s1.laserCount--;
+    shotf+=s1.turretCount;
   }
 }
 
@@ -190,6 +196,8 @@ void gameOver() {
   fill(255);
   textSize(50);
   textAlign(CENTER);
+  accuracy = round((shoth / shotf)*100);
   text("Score: " + score, 250, 500);
+  text("Accuracy: " + accuracy + "%", 250, 550);
   noLoop();
 }
