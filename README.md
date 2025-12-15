@@ -1,4 +1,4 @@
-# Kolby Green's Game Dev Portfolio 2026
+# Game Development | Portfolio | Kolby Green | kolby.j.green@gmail.com
 
 ## Projects for Term 1
 
