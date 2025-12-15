@@ -2,7 +2,7 @@
 
 ## Certifications
   * [Game Dev 1](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/docs/Kolby%20Green_Game%20Development%20Fundamentals%201_12152025.pdf)
-  * [Graphics 1]
+  * [Graphics 1](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/docs/Kolby%20Green_Graphic%20Print%20Design%201_12112025.pdf)
 
 ## Projects for Term 1
 
