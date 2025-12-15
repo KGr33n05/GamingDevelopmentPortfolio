@@ -1,7 +1,7 @@
 # Game Development | Portfolio | Kolby Green | kolby.j.green@gmail.com
 
 ## Certifications
-  * [Game Dev 1]()
+  * [Game Dev 1](https://github.com/KGr33n05/GamingDevelopmentPortfolio/blob/main/docs/Kolby%20Green_Game%20Development%20Fundamentals%201_12152025.pdf)
   * [Graphics 1]
 
 ## Projects for Term 1
