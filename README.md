@@ -1,5 +1,9 @@
 # Game Development | Portfolio | Kolby Green | kolby.j.green@gmail.com
 
+## Certifications
+  * Game Dev 1
+  * Graphics 1
+
 ## Projects for Term 1
 
 ### Space Game
